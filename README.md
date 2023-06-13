@@ -4,7 +4,7 @@ This guide walks you through the process of creating a simple publish and subscr
   
 ## Prerequisites      
    
-Before you begin, ensure that you have the following prerequisites set up:
+Before you begin, ensure that you have the following prerequisites set up: 
 
 - Apache Kafka installed and running locally. You can follow the official [Kafka Quickstart](https://kafka.apache.org/quickstart) guide for installation instructions.
 - .NET Core SDK installed on your machine. You can download it from the [.NET downloads](https://dotnet.microsoft.com/download) page.
