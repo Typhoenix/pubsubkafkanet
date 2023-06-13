@@ -3,7 +3,7 @@
 This guide walks you through the process of creating a simple publish and subscribe solution using Apache Kafka and .NET. The solution demonstrates how to use the Confluent.Kafka library to publish messages to a Kafka topic and subscribe to that topic to consume the messages.
   
 ## Prerequisites      
-   
+     
 Before you begin, ensure that you have the following prerequisites set up: 
 
 - Apache Kafka installed and running locally. You can follow the official [Kafka Quickstart](https://kafka.apache.org/quickstart) guide for installation instructions.
