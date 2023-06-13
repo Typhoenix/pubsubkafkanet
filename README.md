@@ -149,7 +149,7 @@ namespace KafkaPubSubSolution
 }
 ```
                  
->This code sets up a Kafka consumer, subscribes to the specified topic, and continuously consumes messages from the topic. Any received messages will be displayed in the console. Remember to replace the placeholder topic name (mytopic) with the actual Kafka topic you want to subscribe to.
+This code sets up a Kafka consumer, subscribes to the specified topic, and continuously consumes messages from the topic. Any received messages will be displayed in the console. Remember to replace the placeholder topic name (mytopic) with the actual Kafka topic you want to subscribe to.
 
    
                  
